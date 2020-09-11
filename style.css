@@ -1,0 +1,13 @@
+
+#btn1
+{
+	-fx-font-size: 35 pt;
+}
+.label
+{
+	-fx-text-fill:white;
+}
+.menu-bar,.menu-item {
+    -fx-font-size: 20 pt;
+    -fx-background-color:#383737;
+}
